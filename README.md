@@ -1,2 +1,1 @@
 # demo
-#author Guillaume Collet
